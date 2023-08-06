@@ -1,1 +1,0 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/aypc4l4moe6hkm1u?svg=true)](https://ci.appveyor.com/project/sunsetLatte/carddeliveryselenide)
