@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac4846d1-ac82-4c83-a81d-e19c2d305326" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.appveyor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.appveyor.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/CardDeliveryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/CardDeliveryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_directory_selection": "C:/Users/user/Desktop/Netology/hw/aqa-code/cardDeliverySelenide/src/test/java",
-    "last_opened_file_path": "C:/Users/user/Desktop/Netology/hw/aqa-code/cardDeliverySelenide"
+    "last_opened_file_path": "C:/Users/user/Desktop/Netology/hw/aqa-code/selenide_cardDelivery"
   }
 }]]></component>
   <component name="RunManager" selected="Gradle.CardDeliveryTest.shouldRegistered">
